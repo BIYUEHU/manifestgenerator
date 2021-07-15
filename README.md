@@ -3,6 +3,7 @@
 
 **Manifest是指manifest.json文件,在Minecraft基岩版中用于定义包的各种信息**例如：包名字、简介、版本、作者等....
 这是一个能够快速生成manifest.json文件的工具，不再需要手写，以便节约了许多时间
+在线生成网站:[https://biyuehu.github.io/manifestgenerator](https://biyuehu.github.io/manifestgenerator)
 
 ## 如何使用?
 目前可生成四种类型的包的manifest：
@@ -33,9 +34,3 @@ World template packs(世界模板包)
 ## 关于
 **作者:碧月狐dada**
 作者博客:[https://biyuehu.github.com](https://biyuehu.github.com)
-Gitee源:[https://gitee.com/biyuehu/manifest_generator](https://gitee.com/biyuehu/manifest_generator)
-
-其它工具网站:
-UUID生成:[http://biyuehu.gitee.io/uuid](http://biyuehu.gitee.io/uuid)
-MCBE服务器信息查询:[https://biyuehu.gitee.io/motd](https://biyuehu.gitee.io/motd)
-随机色图:[https://biyuehu.gitee.io/seimg](https://biyuehu.gitee.io/seimg)
